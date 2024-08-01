@@ -1,0 +1,1 @@
+Computer hardware is a physical parts of a computer

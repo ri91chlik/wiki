@@ -1,0 +1,1 @@
+Compuer software is the step by step instructions in a computer or simply programs that enable computer to function.

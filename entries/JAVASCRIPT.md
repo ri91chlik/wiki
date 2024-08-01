@@ -1,0 +1,1 @@
+JavaScript is a scripting language, used to make our web pages dynamic. JavaScript is one of the most popular languages currently used to make web pages in world. This is due to the varieties of libraries that come with it, they include vu, react, angular among others.
